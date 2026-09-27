@@ -1,0 +1,5 @@
+Hidden layer ek layer hai jisme neurons hote hain; ye neurons weights aur biases ke saath calculations aur activation functions use karke data ke patterns learn karte hain.
+
+Isi liye hum kehte hain:
+
+"Hidden layers perform computations using weights, biases, and activation functions to extract patterns."
